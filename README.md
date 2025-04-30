@@ -1,4 +1,4 @@
-# 🛒 E-Commerce React App (Frontend Only)
+# 🛒 E-Commerce React App 
 
 An elegant and responsive frontend for an online e-commerce platform built using **React.js**. This application provides users with a seamless shopping experience, enabling them to browse products, view detailed information, manage their cart, and simulate checkout — all with a modern and mobile-friendly UI.
 
