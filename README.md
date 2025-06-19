@@ -4,7 +4,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 
 ## 🚀 Features
 
-- 🛒 Shopping cart functionality
+- 🛒 Shopping cart functionality 
 - 🔍 Product search and filtering
 - 👤 User authentication and account management
 - 💳 Multiple payment methods integration
