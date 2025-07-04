@@ -21,7 +21,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js
-- 🎨 CSS3
+- 🎨 CSS3 
 - 🔄 React Router
 - 📦 npm
 - 🎯 JavaScript (ES6+)
