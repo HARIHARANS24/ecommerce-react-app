@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce React Application
 
-A modern and responsive e-commerce web application built with React.js, featuring a beautiful user interface and essential e-commerce functionality. This project showcases various product pages, payment integrations, and user authentication features.
+A modern and responsive e-commerce web application built with React.js, featuring a beautiful user interface and essential e-commerce functionality. This project showcases various product pages, payment integrations, and user authentication features. 
  
 ## 🚀 Features 
 
