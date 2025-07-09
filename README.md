@@ -12,7 +12,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 - 🎨 Modern UI with smooth animations 
 - 🔄 Real-time updates 
 - 📦 Product management 
-- ⭐ Product ratings and reviews 
+- ⭐ Product ratings and reviews  
 - 🏦 Bank integration (SBI, ICICI)  
 - 📱 Multiple device support pages
 - 🎧 Audio equipment pages 
