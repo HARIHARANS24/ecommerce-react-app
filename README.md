@@ -13,7 +13,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 - 🔄 Real-time updates  
 - 📦 Product management 
 - ⭐ Product ratings and reviews  
-- 🏦 Bank integration (SBI, ICICI)      
+- 🏦 Bank integration (SBI, ICICI)       
 - 📱 Multiple device support pages
 - 🎧 Audio equipment pages  
 - 📸 Camera and photography pages 
