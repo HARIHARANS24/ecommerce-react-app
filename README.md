@@ -15,7 +15,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 - ⭐ Product ratings and reviews  
 - 🏦 Bank integration (SBI, ICICI)       
 - 📱 Multiple device support pages 
-- 🎧 Audio equipment pages  
+- 🎧 Audio equipment pages   
 - 📸 Camera and photography pages 
  
 ## 🛠️ Tech Stack
