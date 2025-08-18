@@ -9,7 +9,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 - 👤 User authentication and account management   
 - 💳 Multiple payment methods integration      
 - 📱 Responsive design for all devices      
-- 🎨 Modern UI with smooth animations 
+- 🎨 Modern UI with smooth animations  
 - 🔄 Real-time updates    
 - 📦 Product management   
 - ⭐ Product ratings and reviews  
