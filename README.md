@@ -10,7 +10,7 @@ A modern and responsive e-commerce web application built with React.js, featurin
 - 💳 Multiple payment methods integration           
 - 📱 Responsive design for all devices            
 - 🎨 Modern UI with smooth animations      
-- 🔄 Real-time updates         
+- 🔄 Real-time updates          
 - 📦 Product management         
 - ⭐ Product ratings and reviews    
 - 🏦 Bank integration (SBI, ICICI)         
