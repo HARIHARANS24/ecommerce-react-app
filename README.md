@@ -34,93 +34,93 @@ A modern and responsive e-commerce web application built with React.js, featurin
 ## 📁 Project Structure
 
 ```
-📦 ecommerce-react-app
- ┣ 📂 public
- ┃ ┣ 📜 index.html
- ┃ ┣ 📜 favicon.ico
- ┃ ┗ 📜 manifest.json
- ┃
- ┣ 📂 src
- ┃ ┣ 📂 Components
- ┃ ┃ ┣ 📂 figma
- ┃ ┃ ┃ ┣ 📜 1.js
- ┃ ┃ ┃ ┣ 📜 1.css
- ┃ ┃ ┃ ┣ 📜 amazon.js
- ┃ ┃ ┃ ┣ 📜 amazon.css
- ┃ ┃ ┃ ┣ 📜 apple2.js
- ┃ ┃ ┃ ┣ 📜 apple1.css
- ┃ ┃ ┃ ┣ 📜 boat.js
- ┃ ┃ ┃ ┣ 📜 boat.css
- ┃ ┃ ┃ ┣ 📜 canon.js
- ┃ ┃ ┃ ┣ 📜 canon.css
- ┃ ┃ ┃ ┣ 📜 cash.js
- ┃ ┃ ┃ ┣ 📜 cash.css
- ┃ ┃ ┃ ┣ 📜 create.js
- ┃ ┃ ┃ ┣ 📜 create.css
- ┃ ┃ ┃ ┣ 📜 dell.js
- ┃ ┃ ┃ ┣ 📜 dell.css
- ┃ ┃ ┃ ┣ 📜 fp.js
- ┃ ┃ ┃ ┣ 📜 fpp.css
- ┃ ┃ ┃ ┣ 📜 guide.js
- ┃ ┃ ┃ ┣ 📜 guide.css
- ┃ ┃ ┃ ┣ 📜 hp.js
- ┃ ┃ ┃ ┣ 📜 hp.css
- ┃ ┃ ┃ ┣ 📜 icic.js
- ┃ ┃ ┃ ┣ 📜 icic.css
- ┃ ┃ ┃ ┣ 📜 jbl.js
- ┃ ┃ ┃ ┣ 📜 jbl.css
- ┃ ┃ ┃ ┣ 📜 login.js
- ┃ ┃ ┃ ┣ 📜 login.css
- ┃ ┃ ┃ ┣ 📜 Marshall.js
- ┃ ┃ ┃ ┣ 📜 marshall.css
- ┃ ┃ ┃ ┣ 📜 more.js
- ┃ ┃ ┃ ┣ 📜 more.css
- ┃ ┃ ┃ ┣ 📜 news.js
- ┃ ┃ ┃ ┣ 📜 news.css
- ┃ ┃ ┃ ┣ 📜 nikon.js
- ┃ ┃ ┃ ┣ 📜 nikon.css
- ┃ ┃ ┃ ┣ 📜 payby.js
- ┃ ┃ ┃ ┣ 📜 payby.css
- ┃ ┃ ┃ ┣ 📜 paybyd.js
- ┃ ┃ ┃ ┣ 📜 paybyd.css
- ┃ ┃ ┃ ┣ 📜 paybyn.js
- ┃ ┃ ┃ ┣ 📜 paybyn.css
- ┃ ┃ ┃ ┣ 📜 response.js
- ┃ ┃ ┃ ┣ 📜 response.css
- ┃ ┃ ┃ ┣ 📜 review.js
- ┃ ┃ ┃ ┣ 📜 review.css
- ┃ ┃ ┃ ┣ 📜 samsung2.js
- ┃ ┃ ┃ ┣ 📜 samsung2.css
- ┃ ┃ ┃ ┣ 📜 sbi.js
- ┃ ┃ ┃ ┣ 📜 sbi.css
- ┃ ┃ ┃ ┣ 📜 skullcandy.js
- ┃ ┃ ┃ ┣ 📜 skullcandy.css
- ┃ ┃ ┃ ┣ 📜 sony.js
- ┃ ┃ ┃ ┣ 📜 sony.css
- ┃ ┃ ┃ ┣ 📜 thankyou.js
- ┃ ┃ ┃ ┗ 📜 thankyou.css
- ┃ ┃ ┃
- ┃ ┃ ┣ 📜 functionalcomponent.js
- ┃ ┃ ┣ 📜 ClassComponent.js
- ┃ ┃ ┣ 📜 Arrowfunction.js
- ┃ ┃ ┣ 📜 3List.js
- ┃ ┃ ┗ 📜 2PropsFunctional.js
- ┃ ┃
- ┃ ┣ 📜 App.js
- ┃ ┣ 📜 App.css
- ┃ ┣ 📜 App.test.js
- ┃ ┣ 📜 index.js
- ┃ ┣ 📜 index.css
- ┃ ┣ 📜 logo.svg
- ┃ ┣ 📜 reportWebVitals.js
- ┃ ┗ 📜 setupTests.js
- ┃
- ┣ 📜 .gitignore
- ┣ 📜 gitattributes
- ┣ 📜 LICENSE.txt
- ┣ 📜 package.json
- ┣ 📜 package-lock.json
- ┗ 📜 README.md
+Directory structure:
+└── hariharans24-ecommerce-react-app/
+    ├── README.md
+    ├── gitattributes
+    ├── LICENSE.txt
+    ├── package.json
+    ├── public/
+    │   ├── alien2.0.avif
+    │   ├── bs.webp
+    │   ├── db.webp
+    │   ├── index.html
+    │   ├── manifest.json
+    │   ├── red.webp
+    │   ├── robots.txt
+    │   ├── vis.webp
+    │   └── yyy.webp
+    └── src/
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── index.css
+        ├── index.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
+        └── Components/
+            ├── 2PropsFunctional.js
+            ├── 3List.js
+            ├── Arrowfunction.js
+            ├── ClassComponent.js
+            ├── functionalcomponent.js
+            └── figma/
+                ├── 1.css
+                ├── 1.js
+                ├── amazon.css
+                ├── amazon.js
+                ├── apple1.css
+                ├── apple2.js
+                ├── boat.css
+                ├── boat.js
+                ├── canon.css
+                ├── canon.js
+                ├── cash.css
+                ├── cash.js
+                ├── create.css
+                ├── create.js
+                ├── dell.css
+                ├── dell.js
+                ├── fp.js
+                ├── fpp.css
+                ├── guide.css
+                ├── guide.js
+                ├── hp.css
+                ├── hp.js
+                ├── icic.css
+                ├── icic.js
+                ├── jbl.css
+                ├── jbl.js
+                ├── login.css
+                ├── login.js
+                ├── marshall.css
+                ├── Marshall.js
+                ├── more.css
+                ├── more.js
+                ├── news.css
+                ├── news.js
+                ├── nikon.css
+                ├── nikon.js
+                ├── payby.css
+                ├── payby.js
+                ├── paybyd.css
+                ├── paybyd.js
+                ├── paybyn.css
+                ├── paybyn.js
+                ├── response.css
+                ├── response.js
+                ├── review.css
+                ├── review.js
+                ├── samsung2.css
+                ├── samsung2.js
+                ├── sbi.css
+                ├── sbi.js
+                ├── skullcandy.css
+                ├── skullcandy.js
+                ├── sony.css
+                ├── sony.js
+                ├── thankyou.css
+                └── thankyou.js
 ```
 
 ## 🚀 Getting Started
